@@ -8,6 +8,6 @@ Now applying that depth to production AI systems — RAG, agents, LLM serving �
 
 **Background:** Java, Go, Python · Kafka, Kubernetes, OpenTelemetry · Apache Iceberg, S3 · led and mentored an 8-engineer team.
 
-**Writing:** _(link coming soon)_
+**Writing:** [anikethreddy.dev](https://anikethreddy.dev)
 
 **Contact:** aniketh9@gmail.com · [LinkedIn](https://linkedin.com/in/anikethreddy)
